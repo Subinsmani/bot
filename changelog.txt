@@ -1,0 +1,5 @@
+***Changelogs***:-
+-Upstream to 3.18.136
+-Merged latest CAF tag
+-Improved DTS eagle drivers
+-Updated Netfilter settings
