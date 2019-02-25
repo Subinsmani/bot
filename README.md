@@ -8,7 +8,7 @@ This bot has been designed by another developer/contributer to xiaomi community 
 So the bot will automatically post once the provided json file will be updated.
 This json file has certain parameter see this tabulation which explains each parameters used
 
-##### latest.json
+#### latest.json
 | Param | Description | Required |
 |--|--|--|
 | build_type | Tell us if thats a ROM, Kernel, Other | Yes |
