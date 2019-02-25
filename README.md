@@ -1,6 +1,12 @@
-# xcp_assistant
-
-
+# Xiaomi Channel Pro
+## About channel 
+Xiaomi Channel Pro the name itself suggests its existence, It is found by ░ϟкƴмαη░(https://t.me/mmpersian) on October 02, 2016 ,With a aim to deliver all the latest Development stuffs at one place made by some amazing developers who work for various Xiaomi devices to make it better everyday.
+The team was fortunate to have such a great response from entire telegram community.
+This year in 2019 we are aiming to take XCP to newer level being inspired by some amazing developers.
+For that we are implementing a automated bot system that will help the team to do things a little more faster.
+This bot has been designed by another developer/contributer to xiaomi community non other than yshalsager (the founder of Xiaomi Firmware Updater and lot more)
+So the bot will automatically post once the provided json file will be updated.
+This json file has certain parameter see this tabulation which explains each parameters used
 
 ##### latest.json
 | Param | Description | Required |
