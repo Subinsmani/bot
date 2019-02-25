@@ -1,0 +1,17 @@
+[
+   { 
+   "build_type":"",
+   "version":"pie",		
+   "build_date":"",
+   "images":"images/rrpie",
+   "device":"",            
+   "code_name":"",    
+   "thread_type":"",      
+   "thread_link":"",   
+   "download_link":"",    
+   "developer_name":"",
+   "devloper_contact":"",
+   "changelogs":"changelog.txt",
+   "group_link":""          
+    }
+] 
