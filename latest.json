@@ -1,17 +1,17 @@
 [
    { 
-   "build_type":"",
-   "version":"pie",		
-   "build_date":"",
-   "images":"images/rrpie",
-   "device":"",            
-   "code_name":"",    
-   "thread_type":"",      
-   "thread_link":"",   
-   "download_link":"",    
-   "developer_name":"",
-   "devloper_contact":"",
+   "build_type":"kernel",
+   "version":"v3.1",		
+   "build_date":"(25/02/2018)",
+   "images":"images/rosywolf.jpg",
+   "device":"Redmi 5",            
+   "code_name":"rosy",    
+   "thread_type":"XDA",      
+   "thread_link":"https://forum.xda-developers.com/redmi-5/development/kernel-wolf-kernelv3-sukrut-bhagwat-t3896085",   
+   "download_link":"https://drive.google.com/open?id=1xU5xGjX3LkhOmebVORz3Io28m4WfNWF0",    
+   "developer_name":"Sukrut Bhagwat",
+   "devloper_contact":"https://forum.xda-developers.com/member.php?u=9573489",
    "changelogs":"changelog.txt",
-   "group_link":""          
+   "group_link":"https://t.me/redmi5plusofficial"           
     }
 ] 
