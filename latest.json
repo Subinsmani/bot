@@ -1,17 +1,17 @@
 [
    { 
-   "build_type":"kernel",
-   "version":"v3.1",		
-   "build_date":"(25/02/2018)",
+   "build_type":"rom",
+   "version":"v2.4",		
+   "build_date":"(2019/2/18)",
    "images":"images/rosywolf.jpg",
-   "device":"Redmi 5",            
-   "code_name":"rosy",    
+   "device":"Mi A1",            
+   "code_name":"tissot",    
    "thread_type":"XDA",      
-   "thread_link":"https://forum.xda-developers.com/redmi-5/development/kernel-wolf-kernelv3-sukrut-bhagwat-t3896085",   
-   "download_link":"https://drive.google.com/open?id=1xU5xGjX3LkhOmebVORz3Io28m4WfNWF0",    
-   "developer_name":"Sukrut Bhagwat",
-   "devloper_contact":"https://forum.xda-developers.com/member.php?u=9573489",
-   "changelogs":"changelog.txt",
-   "group_link":"https://t.me/redmi5plusofficial"           
+   "thread_link":"https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454/page35",   
+   "download_link":"https://sourceforge.net/projects/pixys-os/files/pie/tissot/PixysOS-v2.4-tissot-OFFICIAL-20190218-0931.zip/download",    
+   "developer_name":"amarbajpai",
+   "devloper_contact":"https://t.me/amarbajpai",
+   "changelogs":"",
+   "group_link":"https://t.me/pixysostissot"           
     }
 ] 
