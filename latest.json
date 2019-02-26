@@ -1,18 +1,18 @@
 [
    {
-   "rom": "PixysOS",
-   "rom_tag": "PixysOS",
+   "rom": "Pixel Experience",
+   "rom_tag": "pixel",
    "build_type": "Official",
-   "version": "v2.4",
-   "build_date": "(2019/2/18)",
-   "image": "images/pixyspie.jpg",
-   "device": "Mi A1",
-   "codename": "tissot",
-   "thread_link": "https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454/page35",
-   "download_link": "https://sourceforge.net/projects/pixys-os/files/pie/tissot/PixysOS-v2.4-tissot-OFFICIAL-20190218-0931.zip/download",
-   "developer_name": "amarbajpai",
-   "developer_contact": "https://t.me/amarbajpai",
+   "version": "9.0",
+   "build_date": "(2019/2/26)",
+   "image": "images/pixelpie.jpg",
+   "device": "OnePlus 3/3T",
+   "codename": "oneplus3",
+   "thread_link": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763",
+   "download_link": "https://download.pixelexperience.org/changelog/oneplus3/PixelExperience_oneplus3-9.0-20190225-2141-OFFICIAL.zip/",
+   "developer_name": "Akash Srivastava (markakash)",
+   "developer_contact": "https://forum.xda-developers.com/member.php?u=5970333",
    "changelog" :"changelog.txt",
-   "group_link": "https://t.me/pixysostissot"
+   "group_link": ""
     }
 ] 
