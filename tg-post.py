@@ -28,7 +28,7 @@ else:
 data.append('Join 👉@XiaomiChannelPro')
 # remove empty entries
 for i in data:
-    if ': \n' in i:
+    if ': \n' in i or '()' in i:
         data.remove(i)
 # create the message
 caption = ''.join(data)
