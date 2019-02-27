@@ -1,18 +1,18 @@
 [
    {
-   "rom": "Franco Kernel r20 Custom & Stock",
-   "rom_tag": "franco",
+   "rom": "ORGANIC KERNEL",
+   "rom_tag": "organic",
    "build_type": "official",
-   "version": " A8.X & 9.0",
+   "version": "v3.0",
    "build_date": "(27/02/2019)",
-   "image": "images/pic26.jpg",
-   "device": "Poco F1",
-   "codename": "Beryllium",
-   "thread_link": "https://forum.xda-developers.com/poco-f1/development/kernel-francokernel-r1-30th-november-t3873920/post78995401",
-   "download_link": "https://franco-lnx.net/PocophoneF1/9/anyKernel/fk-r20-anykernel2.zip",
-   "developer_name": "franciscofranco",
-   "developer_contact": "https://forum.xda-developers.com/member.php?u=3292224",
+   "image": "images/pic27.jpg",
+   "device": "Redmi Note 6 Pro",
+   "codename": "Tullip",
+   "thread_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/kernel-t3904908",
+   "download_link": "https://sourceforge.net/projects/theglitchh/files/organic4.0.zip/download",
+   "developer_name": "Sourav Gope",
+   "developer_contact": "https://forum.xda-developers.com/member.php?u=9106315",
    "changelog" :"changelog.txt",
-   "group_link": "https://t.me/PocoPhoneGlobalOfficial"
+   "group_link": "https://t.me/OrganicKernel"
     }
 ] 

@@ -56,6 +56,7 @@ This json file has certain parameter see this tabulation which explains each par
 | Syberia ROM | pic24 | images/pic24.jpg |
 | Viper OS (oreo/pie) | pic25 | images/pic25.jpg |
 | Franco Kernel | pic26 | images/pic26.jpg |
+| Organic Kernel (tullip) | pic27 | images/pic27.jpg |
 
 These are some of the currently avaiable images for the builds
 
