@@ -27,38 +27,38 @@ This json file has certain parameter see this tabulation which explains each par
 | changelogs | if you have in changelogs write down in a points format eg. -updated security patch | NO |
 
 
-## What is the patch of the image for my ROM/kernel/Apps/Mod/others
+## Path pf the images for the given ROM/kernel/Apps/Mod/others
 | Build name | which image to use | path |
 |--|--|--|
 | AEX 6.x | pic1 | images/pic1.jpg |
-| AOSiP Pie | pic2 | images/pic1.jpg |
-| Pure AOSP Pie | pic3 | images/pic1.jpg |
-| ArrowOS (oreo/pie) | pic4 | images/pic1.jpg |
-| Crdroid pie | pic5 | images/pic1.jpg |
-| Dark TWRP | pic6 | images/pic1.jpg |
-| DOTOS (OREO/PIE) | pic7 | images/pic1.jpg |
-| HAVOC OS | pic8 | images/pic1.jpg |
-| LineageOS 15.1 | pic9 | images/pic1.jpgimages/pic1.jpg |
-| LineageOS 16.0 | pic10 | images/pic1.jpg |
-| Liquid Remix | pic11 | images/pic1.jpg |
-| Magisk update | pic12 | images/pic1.jpg |
-| Miui 10 | pic13 | images/pic1.jpg |
-| Paranoid Android | pic14 | images/pic1.jpg |
-| AOSiP OREO | pic15 | images/pic1.jpg |
-| Any Gcam update | pic16 | images/pic1.jpg |
-| Pixel Experience | pic17 | images/pic1.jpg |
-| PixysOS | pic18 | images/pic1.jpg |
-| Poco Launcher | pic19 | images/pic1.jpg || download_link | pic10 | images/pic1.jpg |
-| RevengeOS | pic20 | images/pic1.jpg |
-| Wolf Kernel (for rosy) | pic21 | images/pic1.jpg |
-| Resurrection Remix (Pie/oreo) | pic22 | images/pic1.jpg |
-| Superior OS | pic23 | images/pic1.jpg || download_link | pic10 | images/pic1.jpg |
-| Syberia ROM | pic24 | images/pic1.jpg |
-| Viper OS (oreo/pie) | pic25 | images/pic1.jpg |
+| AOSiP Pie | pic2 | images/pic2.jpg |
+| Pure AOSP Pie | pic3 | images/pic3.jpg |
+| ArrowOS (oreo/pie) | pic4 | images/pic4.jpg |
+| Crdroid pie | pic5 | images/pic5.jpg |
+| Dark TWRP | pic6 | images/pic6.jpg |
+| DOTOS (OREO/PIE) | pic7 | images/pic7.jpg |
+| HAVOC OS | pic8 | images/pic8.jpg |
+| LineageOS 15.1 | pic9 | images/pic9.jpg |
+| LineageOS 16.0 | pic10 | images/pic10.jpg |
+| Liquid Remix | pic11 | images/pic11.jpg |
+| Magisk update | pic12 | images/pic12.jpg |
+| Miui 10 | pic13 | images/pic13.jpg |
+| Paranoid Android | pic14 | images/pic14.jpg |
+| AOSiP OREO | pic15 | images/pic15.jpg |
+| Any Gcam update | pic16 | images/pic16.jpg |
+| Pixel Experience | pic17 | images/pic17.jpg |
+| PixysOS | pic18 | images/pic18.jpg |
+| Poco Launcher | pic19 | images/pic19.jpg |
+| RevengeOS | pic20 | images/pic20.jpg |
+| Wolf Kernel (for rosy) | pic21 | images/pic21.jpg |
+| Resurrection Remix (Pie/oreo) | pic22 | images/pic22.jpg |
+| Superior OS | pic23 | images/pic23.jpg |
+| Syberia ROM | pic24 | images/pic24.jpg |
+| Viper OS (oreo/pie) | pic25 | images/pic25.jpg |
 
-These are some of the currently avaiable images 
+These are some of the currently avaiable images for the builds
+
 if you see that any of your required image is missing/not available then contact the administartion team with some details on 
-
 Telegram :-  https://t.me/joinchat/BgnlGBFkoFRYwgk0A9alsw
 E-Mail :- xiaomichannelpro@gmail.com
 
