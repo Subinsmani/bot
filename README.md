@@ -12,7 +12,7 @@ This json file has certain parameter see this tabulation which explains each par
 | Param | Description | Required |
 |--|--|--|
 | rom | Name of the ROM | Yes |
-| rom_tag | tag name of your ROM eg. lineage,pyxis,rr,pixel   | Yes |
+| rom_tag | tag name of your ROM eg. lineage,pixys,rr,pixel   | Yes |
 | version | what is the verison of ROM like lineage pie means version 16.0 | Yes |
 | build_type | Is your build official/unofficial/nightly/beta | Yes |
 | images | We got a images folder see if your build image is there of not contact the administator team. If yes then write its path name eg. images/lineagepie.jpg If you post lineage 16.0 | Yes |
@@ -25,3 +25,5 @@ This json file has certain parameter see this tabulation which explains each par
 | developer_contact | Codename of that device | Yes |
 | group_link | If you have any telegram group link for that device or supported build | No |
 | changelogs | if you have in changelogs write down in a points format eg. -updated security patch | NO |
+
+
