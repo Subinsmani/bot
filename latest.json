@@ -1,18 +1,18 @@
 [
    {
-   "rom": "",
-   "rom_tag": "",
-   "build_type": "",
-   "version": "",
-   "build_date": "",
-   "image": "images/",
-   "device": "",
-   "codename": "",
-   "thread_link": "",
-   "download_link": "",
-   "developer_name": "",
-   "developer_contact": "",
-   "changelog" :"",
+   "rom": "Pixel Experience (CAF edition)",
+   "rom_tag": "pixel",
+   "build_type": "official",
+   "version": "A9.0",
+   "build_date": "(27/02/2019)",
+   "image": "images/pic17.jpg",
+   "device": "Mi 8 lite",
+   "codename": "platina",
+   "thread_link": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
+   "download_link": "https://download.pixelexperience.org/changelog/platina/PixelExperience_platina-9.0-20190227-0127-CAF-OFFICIAL.zip/",
+   "developer_name": "Bruno Rochaa (brunorochaa)",
+   "developer_contact": "https://t.me/brunorochaa",
+   "changelog" :"changelog.txt",
    "group_link": ""
     }
 ] 

@@ -1,4 +1,2 @@
-- Updated to latest LOS trees
-- Kernel upstreamed to .136
-- Many update and fixes to source
-- New DarkMode added
+- Fixed hotspot issues;
+- Dirty way to fix audio issues (for now, need to flash magisk module, read xda thread).
