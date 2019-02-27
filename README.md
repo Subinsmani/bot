@@ -11,16 +11,17 @@ This json file has certain parameter see this tabulation which explains each par
 #### latest.json
 | Param | Description | Required |
 |--|--|--|
-| build_type | Tell us if thats a ROM, Kernel, Other | Yes |
-| version | Version of the ROM (pie/oreo/etc.), kernel, Apps(v1, 10.4.2 etc) | Yes |
-| build_date | Write the date when you made the build. | Yes |
-| images | We got a images folder see if your build image is there of not. If yes then write its path name example images/lineagepie.jpg If you post lineage 16.0 | Yes |
-| device | Name of device for which the build is made. | Yes |
-| code_name | Codename of that device | Yes |
-| download_link | download link of your build | Yes |
-| code_name | Codename of that device | Yes |
-| thread_type | Mostly XDA but still if you have anything else you can write eg. 4pda | No  |
-| thread_link | XDA thread URL, eg: https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064 | No |
+| rom | Name of the ROM | Yes |
+| rom_tag | tag name of your ROM eg. lineage,pyxis,rr,pixel   | Yes |
+| version | what is the verison of ROM like lineage pie means version 16.0 | Yes |
+| build_type | Is your build official/unofficial/nightly/beta | Yes |
+| images | We got a images folder see if your build image is there of not contact the administator team. If yes then write its path name eg. images/lineagepie.jpg If you post lineage 16.0 | Yes |
+| build_date | Tell us when you made the build | Yes |
+| device | name of the device | Yes |
+| codename | codename of that device | Yes |
+| thread_link | XDA thread URL, eg: https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064 | Yes |
+| download_link | Link to download your ROM/kernel | Yes  |
 | developer_name | Codename of that device | Yes |
 | developer_contact | Codename of that device | Yes |
-| group_link | If you have any telegram group link for that device or supported build | Yes |
+| group_link | If you have any telegram group link for that device or supported build | No |
+| changelogs | if you have in changelogs write down in a points format eg. -updated security patch | NO |
