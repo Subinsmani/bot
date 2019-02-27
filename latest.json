@@ -1,18 +1,18 @@
 [
    {
-   "rom": "Pixel Experience (CAF edition)",
-   "rom_tag": "pixel",
+   "rom": "Franco Kernel r20 Custom & Stock",
+   "rom_tag": "franco",
    "build_type": "official",
-   "version": "A9.0",
+   "version": " A8.X & 9.0",
    "build_date": "(27/02/2019)",
-   "image": "images/pic17.jpg",
-   "device": "Mi 8 lite",
-   "codename": "platina",
-   "thread_link": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
-   "download_link": "https://download.pixelexperience.org/changelog/platina/PixelExperience_platina-9.0-20190227-0127-CAF-OFFICIAL.zip/",
-   "developer_name": "Bruno Rochaa (brunorochaa)",
-   "developer_contact": "https://t.me/brunorochaa",
+   "image": "images/pic26.jpg",
+   "device": "Poco F1",
+   "codename": "Beryllium",
+   "thread_link": "https://forum.xda-developers.com/poco-f1/development/kernel-francokernel-r1-30th-november-t3873920/post78995401",
+   "download_link": "https://franco-lnx.net/PocophoneF1/9/anyKernel/fk-r20-anykernel2.zip",
+   "developer_name": "franciscofranco",
+   "developer_contact": "https://forum.xda-developers.com/member.php?u=3292224",
    "changelog" :"changelog.txt",
-   "group_link": ""
+   "group_link": "https://t.me/PocoPhoneGlobalOfficial"
     }
 ] 
