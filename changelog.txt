@@ -1,4 +1,8 @@
-R20 - 27th February, 2019
-1. Merged 4.9.160
-2. Merged a massive Kernel base update from CAF
-3. Merged an updated WiFi driver
+- added sound mods 
+- added some power drivers
+- added GPU tweaks 
+- changed GPU inference to adreno 512
+- enabled wireguard
+- removed shitty script for battery performance
+- boosted SoC drivers a bit
+- dts: uv for 175mhz and 230mhz
