@@ -1,18 +1,18 @@
 [
    {
-   "rom": "Pixel Experience",
-   "rom_tag": "pixel",
-   "build_type": "Official",
-   "version": "9.0",
-   "build_date": "(2019/2/26)",
-   "image": "images/pixelpie.jpg",
-   "device": "OnePlus 3/3T",
-   "codename": "oneplus3",
-   "thread_link": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixel-experience-9-0-t3855763",
-   "download_link": "https://download.pixelexperience.org/changelog/oneplus3/PixelExperience_oneplus3-9.0-20190225-2141-OFFICIAL.zip/",
-   "developer_name": "Akash Srivastava (markakash)",
-   "developer_contact": "https://forum.xda-developers.com/member.php?u=5970333",
-   "changelog" :"changelog.txt",
+   "rom": "",
+   "rom_tag": "",
+   "build_type": "",
+   "version": "",
+   "build_date": "",
+   "image": "images/",
+   "device": "",
+   "codename": "",
+   "thread_link": "",
+   "download_link": "",
+   "developer_name": "",
+   "developer_contact": "",
+   "changelog" :"",
    "group_link": ""
     }
 ] 
