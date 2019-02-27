@@ -27,7 +27,7 @@ This json file has certain parameter see this tabulation which explains each par
 | changelogs | if you have in changelogs write down in a points format eg. -updated security patch | NO |
 
 
-## Path pf the images for the given ROM/kernel/Apps/Mod/others
+## Path of the images for the given ROM/kernel/Apps/Mod/others
 | Build name | which image to use | path |
 |--|--|--|
 | AEX 6.x | pic1 | images/pic1.jpg |
