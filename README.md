@@ -55,6 +55,7 @@ This json file has certain parameter see this tabulation which explains each par
 | Superior OS | pic23 | images/pic23.jpg |
 | Syberia ROM | pic24 | images/pic24.jpg |
 | Viper OS (oreo/pie) | pic25 | images/pic25.jpg |
+| Franco Kernel | pic26 | images/pic26.jpg |
 
 These are some of the currently avaiable images for the builds
 

@@ -1,2 +1,4 @@
-- Fixed hotspot issues;
-- Dirty way to fix audio issues (for now, need to flash magisk module, read xda thread).
+R20 - 27th February, 2019
+1. Merged 4.9.160
+2. Merged a massive Kernel base update from CAF
+3. Merged an updated WiFi driver
