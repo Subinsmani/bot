@@ -1,18 +1,18 @@
 [
    {
-   "rom": "ORGANIC KERNEL",
-   "rom_tag": "organic",
+   "rom": "PixelExperience (CAF  Edition)",
+   "rom_tag": "pixel",
    "build_type": "official",
-   "version": "v3.0",
-   "build_date": "(27/02/2019)",
-   "image": "images/pic27.jpg",
-   "device": "Redmi Note 6 Pro",
-   "codename": "Tullip",
-   "thread_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/kernel-t3904908",
-   "download_link": "https://sourceforge.net/projects/theglitchh/files/organic4.0.zip/download",
-   "developer_name": "Sourav Gope",
-   "developer_contact": "https://forum.xda-developers.com/member.php?u=9106315",
+   "version": "A9.0",
+   "build_date": "(28/02/2019)",
+   "image": "images/pic17.jpg",
+   "device": "Redmi Redmi 4/4X",
+   "codename": "santoni",
+   "thread_link": "",
+   "download_link": "https://download.pixelexperience.org/changelog/santoni/PixelExperience_santoni-9.0-20190227-1711-CAF-OFFICIAL.zip/",
+   "developer_name": "Rohan Hasabe (Hasaber8)",
+   "developer_contact": "https://t.me/Hasaber8",
    "changelog" :"changelog.txt",
-   "group_link": "https://t.me/OrganicKernel"
+   "group_link": ""
     }
 ] 
