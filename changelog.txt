@@ -1,8 +1,2 @@
-- Intial Build
-- Using DarkPhoenix as Default kernel
-
-  Kernel Changes:-
-- Latest caf tag
-- Linux 3.18.136
-- tcp algorith westwood
-- usb fastcharge
+- Initial CAF build
+- Updated kernel to .134
