@@ -1,18 +1,18 @@
 [
    {
-   "rom": "ORGANIC KERNEL",
-   "rom_tag": "organic",
+   "rom": "BootleggersROM",
+   "rom_tag": "Bootleggers",
    "build_type": "official",
-   "version": "v1.0",
+   "version": "v4.0",
    "build_date": "(28/02/2019)",
    "image": "images/pic27.jpg",
-   "device": "Redmi 5a",
-   "codename": "riva",
-   "thread_link": "",
-   "download_link": "https://t.me/redmi5a_updates/1477",
-   "developer_name": "Sourav Gope",
-   "developer_contact": "https://forum.xda-developers.com/member.php?u=9106315",
+   "device": "Redmi Note 5/5 plus",
+   "codename": "vince",
+   "thread_link": "https://forum.xda-developers.com/redmi-note-5/development/rom-bootleggersrom-3-5-stable-vince-t3867209/",
+   "download_link": "https://sourceforge.net/projects/bootleggersrom/files/builds/vince/BootleggersROM-Pie4vince.4.0-Stable-Shishufied-20190226-114748.zip/download",
+   "developer_name": "ManoloRey",
+   "developer_contact": "https://t.me/manolorey",
    "changelog" :"changelog.txt",
-   "group_link": "https://t.me/OrganicKernel"
+   "group_link": "https://t.me/redmi5plusofficial"
     }
 ] 
