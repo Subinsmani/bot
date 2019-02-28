@@ -57,6 +57,7 @@ This json file has certain parameter see this tabulation which explains each par
 | Viper OS (oreo/pie) | pic25 | images/pic25.jpg |
 | Franco Kernel | pic26 | images/pic26.jpg |
 | Organic Kernel (tullip) | pic27 | images/pic27.jpg |
+| Canting Kernel | pic28 | images/pic28.jpg |
 
 These are some of the currently avaiable images for the builds
 
