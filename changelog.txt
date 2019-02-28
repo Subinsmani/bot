@@ -1,8 +1,1 @@
-- added sound mods 
-- added some power drivers
-- added GPU tweaks 
-- changed GPU inference to adreno 512
-- enabled wireguard
-- removed shitty script for battery performance
-- boosted SoC drivers a bit
-- dts: uv for 175mhz and 230mhz
+
