@@ -1,17 +1,17 @@
 [
    {
-   "rom": "ViperOS",
-   "rom_tag": "viper",
+   "rom": "Pixel Experience (CAF edition)",
+   "rom_tag": "pixel",
    "build_type": "official",
-   "version": "v6.1",
-   "build_date": "(24/02/2019)",
-   "image": "images/pic25.jpg",
-   "device": "Xiaomi Redmi Note 6",
-   "codename": "tulip",
-   "thread_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3903533",
-   "download_link": "https://master.dl.sourceforge.net/project/viper-project/tulip/Viper-tulip-20190224-v6.1-OFFICIAL.zip  ",
-   "developer_name": "Saurav Gope",
-   "developer_contact": "https://t.me/TheOrganisms",
+   "version": "A9.0",
+   "build_date": "(28/02/2019)",
+   "image": "images/pic17.jpg",
+   "device": "Xiaomi Redmi Note 5/ 5 Plus",
+   "codename": "vince",
+   "thread_link": "",
+   "download_link": "https://download.pixelexperience.org/changelog/vince/PixelExperience_vince-9.0-20190228-0414-CAF-OFFICIAL.zip/",
+   "developer_name": "Dmitriy Alimov (waiser)",
+   "developer_contact": "https://t.me/waiser_hm",
    "changelog" :"changelog.txt",
    "group_link": ""
     }
