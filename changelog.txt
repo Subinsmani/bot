@@ -1,1 +1,5 @@
-- Merge 4.9.161 into lineage-16.0-4.9
+-overclock I2C and SPI
+- Video Codec OC: 360MHz to 400MHz
+-aditional GPU drivers forked from NgntdKernel
+-enabled idling GPU frequency 
+- add additional power drivers
