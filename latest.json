@@ -1,18 +1,18 @@
 [
    {
-   "rom": "Canting Kernel",
-   "rom_tag": "canting",
-   "build_type": "",
-   "version": "v2.1",
+   "rom": "ORGANIC KERNEL",
+   "rom_tag": "organic",
+   "build_type": "official",
+   "version": "v1.0",
    "build_date": "(28/02/2019)",
-   "image": "images/pic22.jpg",
-   "device": "Mi A1",
-   "codename": "tissot",
-   "thread_link": "https://forum.xda-developers.com/mi-a1/development/kernel-canting-0-1-t3871134",
-   "download_link": "https://drive.google.com/drive/mobile/folders/1zuRNg_K8aNObuHQ-hfqU3sXp9PQw9VlI?usp=drive_open",
-   "developer_name": "khusika",
-   "developer_contact": "https://t.me/khusika",
+   "image": "images/pic27.jpg",
+   "device": "Redmi 5a",
+   "codename": "riva",
+   "thread_link": "",
+   "download_link": "https://t.me/redmi5a_updates/1477",
+   "developer_name": "Sourav Gope",
+   "developer_contact": "https://forum.xda-developers.com/member.php?u=9106315",
    "changelog" :"changelog.txt",
-   "group_link": ""
-    }   
+   "group_link": "https://t.me/OrganicKernel"
+    }
 ] 
