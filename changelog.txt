@@ -1,5 +1,5 @@
--overclock I2C and SPI
-- Video Codec OC: 360MHz to 400MHz
--aditional GPU drivers forked from NgntdKernel
--enabled idling GPU frequency 
-- add additional power drivers
+* Some changes kernel
+* MIUI Camera Default
+* Fix hostpot
+* Fix boot without magisk (thanks @rama982 ❤️)
+* Enforcing \o/
