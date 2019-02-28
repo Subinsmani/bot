@@ -15,5 +15,5 @@ notifications:
  ignore:
   - *.md
   - *.txt
-  - *.yml
-  - images
+
+
