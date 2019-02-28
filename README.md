@@ -58,6 +58,7 @@ This json file has certain parameter see this tabulation which explains each par
 | Franco Kernel | pic26 | images/pic26.jpg |
 | Organic Kernel (tullip) | pic27 | images/pic27.jpg |
 | Canting Kernel | pic28 | images/pic28.jpg |
+| Bootleggers | pic29 | images/pic29.jpg |
 
 These are some of the currently avaiable images for the builds
 
