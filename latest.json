@@ -1,19 +1,18 @@
 [
    {
-   "rom": "Resurrection Remix",
-   "rom_tag": "rr",
-   "build_type": "official",
-   "version": "7.0",
-   "build_date": "(27/02/2019)",
+   "rom": "Canting Kernel",
+   "rom_tag": "canting",
+   "build_type": "",
+   "version": "v2.1",
+   "build_date": "(28/02/2019)",
    "image": "images/pic22.jpg",
-   "device": "Xiaomi Redmi Note 4",
-   "codename": "mido",
-   "thread_link": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/9-0-resurrection-remix-v7-0-t3892912",
-   "download_link": "https://get.resurrectionremix.com/mido/RR-P-v7.0.0-20190227-mido-Official.zip",
-   "developer_name": "AliHasan7671",
-   "developer_contact": "https://forum.xda-developers.com/member.php?u=9683284",
-   "changelog" :"",
+   "device": "Mi A1",
+   "codename": "tissot",
+   "thread_link": "https://forum.xda-developers.com/mi-a1/development/kernel-canting-0-1-t3871134",
+   "download_link": "https://drive.google.com/drive/mobile/folders/1zuRNg_K8aNObuHQ-hfqU3sXp9PQw9VlI?usp=drive_open",
+   "developer_name": "khusika",
+   "developer_contact": "https://t.me/khusika",
+   "changelog" :"changelog.txt",
    "group_link": ""
-    }
-   
+    }   
 ] 
