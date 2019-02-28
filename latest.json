@@ -1,17 +1,17 @@
 [
    {
-   "rom": "PixelExperience (CAF  Edition)",
-   "rom_tag": "pixel",
+   "rom": "ViperOS",
+   "rom_tag": "viper",
    "build_type": "official",
-   "version": "A9.0",
-   "build_date": "(28/02/2019)",
-   "image": "images/pic17.jpg",
-   "device": "Redmi Redmi 4/4X",
-   "codename": "santoni",
-   "thread_link": "",
-   "download_link": "https://download.pixelexperience.org/changelog/santoni/PixelExperience_santoni-9.0-20190227-1711-CAF-OFFICIAL.zip/",
-   "developer_name": "Rohan Hasabe",
-   "developer_contact": "https://t.me/Hasaber8",
+   "version": "v6.1",
+   "build_date": "(24/02/2019)",
+   "image": "images/pic25.jpg",
+   "device": "Xiaomi Redmi Note 6",
+   "codename": "tulip",
+   "thread_link": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-t3903533",
+   "download_link": "https://master.dl.sourceforge.net/project/viper-project/tulip/Viper-tulip-20190224-v6.1-OFFICIAL.zip  ",
+   "developer_name": "Saurav Gope",
+   "developer_contact": "https://t.me/TheOrganisms",
    "changelog" :"changelog.txt",
    "group_link": ""
     }
