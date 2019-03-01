@@ -1,8 +1,3 @@
-- overclock cpu to 1.67ghz
-- add thermal drivers 
-- enable wireguard support
-- add spectrum support 
-
-**Note**
-- Please flash this kernel on ROMs which have new led drivers!
-   Ex:- CrDroid Official by Arpon
+=> Initial official build
+=> Kernel 3.18.136
+=> Fixed low signal issue
