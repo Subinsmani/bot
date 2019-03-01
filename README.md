@@ -6,7 +6,7 @@ This year in 2019 we are aiming to take XCP to newer level being inspired by som
 For that we are implementing a automated bot system that will help the team to do things a little more faster.
 This bot has been designed by another developer/contributer to xiaomi community non other than yshalsager (the founder of Xiaomi Firmware Updater and lot more)
 So the bot will automatically post once the provided json file will be updated.
-This json file has certain parameter see this tabulation which explains each parameters used
+This json file has certain parameter see this tabulation which explains each parameters used.
 
 #### latest.json
 | Param | Description | Required |
