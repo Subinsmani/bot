@@ -1,5 +1,8 @@
-* Some changes kernel
-* MIUI Camera Default
-* Fix hostpot
-* Fix boot without magisk (thanks @rama982 ❤️)
-* Enforcing \o/
+- overclock cpu to 1.67ghz
+- add thermal drivers 
+- enable wireguard support
+- add spectrum support 
+
+**Note**
+- Please flash this kernel on ROMs which have new led drivers!
+   Ex:- CrDroid Official by Arpon
