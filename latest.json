@@ -1,18 +1,18 @@
 [
    {
-   "rom": "PixelExperience (CAF edition)",
-   "rom_tag": "pixel",
-   "build_type": "official",
-   "version": "A9.0",
-   "build_date": "(28/02/2019)",
-   "image": "images/pic17.jpg",
-   "device": "Redmi 4a",
-   "codename": "rolex",
-   "thread_link": "",
-   "download_link": "https://download.pixelexperience.org/changelog/rolex/PixelExperience_rolex-9.0-20190228-1414-CAF-OFFICIAL.zip/",
-   "developer_name": "Karthi Vignesh (k4Rth1_V1gn3Sh)",
-   "developer_contact": "https://t.me/k4rth1_v1gn3sh",
-   "changelog" :"changelog.txt",
-   "group_link": ""
-    }
-] 
+      "rom": "PixelExperience (CAF edition)",
+      "rom_tag": "pixel",
+      "build_type": "official",
+      "version": "A9.0",
+      "build_date": "(28/02/2019)",
+      "image": "images/pic17.jpg",
+      "device": "Redmi 4a",
+      "codename": "rolex",
+      "thread_link": "",
+      "download_link": "https://download.pixelexperience.org/changelog/rolex/PixelExperience_rolex-9.0-20190228-1414-CAF-OFFICIAL.zip/",
+      "developer_name": "Karthi Vignesh (k4Rth1_V1gn3Sh)",
+      "developer_contact": "https://t.me/k4rth1_v1gn3sh",
+      "changelog": "changelog.txt",
+      "group_link": ""
+   }
+]
