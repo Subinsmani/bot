@@ -1,2 +1,2 @@
-Initial CAF Release
-Minimum firmware: 9.2.15
+- Initial CAF Release
+- Minimum firmware: 9.2.15
