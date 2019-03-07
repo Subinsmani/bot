@@ -1,7 +1,6 @@
-
 [
    {
-      "rom": "PixelExperience (CAF Edition)",
+      "rom": "PixelExperience",
       "rom_tag": "pixel",
       "build_type": "official",
       "version": "A9.0",
@@ -10,10 +9,11 @@
       "device": "Mi Mix",
       "codename": "lithium",
       "thread_link": "https://forum.xda-developers.com/mi-mix/development/rom-pixel-experience-t3888147",
-      "download_link": "https://download.pixelexperience.org/changelog/lithium/PixelExperience_lithium-9.0-20190305-2353-OFFICIAL.zip",
+      "download_link": "https://download.pixelexperience.org/changelog/lithium/PixelExperience_lithium-9.0-20190305-2353-OFFICIAL.zip/",
       "developer_name": "Nicholas Magill (Inkypen)",
       "developer_contact": "https://forum.xda-developers.com/member.php?u=9382231",
       "changelog": "changelog.txt",
       "group_link": ""
    }
 ]
+
