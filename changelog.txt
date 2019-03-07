@@ -1,2 +1,2 @@
-- March security patch
-- Fix green screen when using cast
+Initial CAF Release
+Minimum firmware: 9.2.15
