@@ -1,3 +1,4 @@
-* Initial CAF Release
-* Fixed Audio Distort
-* Merges Latest Media Codecs From CAF
+- Add hostapd configs needed for CAF wlan
+- Fix green screen when using cast
+- msm8996-common: Remove cnss-daemon
+- import simple thermal config with Jonas changes
