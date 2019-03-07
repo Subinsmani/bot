@@ -34,8 +34,8 @@ for i in data:
         data.remove(i)
 # create the message
 caption = ''.join(data)
-print(caption)
-'''
+
+
 photo = info[0]['image']
 files = {
     'chat_id': (None, telegram_chat),
@@ -52,4 +52,3 @@ if status == 200:
     print("Message sent")
 else:
     print("Error: " + response)
-'''
