@@ -1,19 +1,19 @@
 [
    {
-      "rom": "PixelExperience",
-      "rom_tag": "pixel",
-      "build_type": "official",
+      "rom": "ZirconiumAosp",
+      "rom_tag": "Aoszp",
+      "build_type": "unofficial",
       "version": "A9.0",
-      "build_date": "(2019/03/03)",
-      "image": "images/pic17.jpg",
-      "device": "Mi 8",
-      "codename": "dipper",
-      "thread_link": "https://forum.xda-developers.com/mi-8/development/rom-pixel-experience-t3871932",
-      "download_link": "https://download.pixelexperience.org/changelog/dipper/PixelExperience_dipper-9.0-20190303-1853-CAF-OFFICIAL.zip/",
-      "developer_name": "Henrique Pereira (Hlcpereira)",
-      "developer_contact": "https://forum.xda-developers.com/member.php?u=7838323",
+      "build_date": "(2019/03/09)",
+      "image": "images/pic30.jpg",
+      "device": "Redmi Note 4",
+      "codename": "mido",
+      "thread_link": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-zirconiumaosp-09-03-2019-t3909148",
+      "download_link": "https://drive.google.com/file/d/18084VP1yp53-0aY0BMun_eC0pLuFrxmQ/view?usp=drivesdk",
+      "developer_name": "Yasir Siddiqui",
+      "developer_contact": "https://t.me/YasirSiddiqui",
       "changelog": "changelog.txt",
-      "group_link": ""
+      "group_link": "https://t.me/ZirconiumAospChat"
    }
 ]
 
