@@ -1,19 +1,34 @@
-[
-   {
-      "rom": "ZirconiumAosp",
-      "rom_tag": "Aoszp",
-      "build_type": "unofficial",
-      "version": "A9.0",
-      "build_date": "(2019/03/09)",
-      "image": "images/pic30.jpg",
-      "device": "Redmi Note 4",
-      "codename": "mido",
-      "thread_link": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-zirconiumaosp-09-03-2019-t3909148",
-      "download_link": "https://drive.google.com/file/d/18084VP1yp53-0aY0BMun_eC0pLuFrxmQ/view?usp=drivesdk",
-      "developer_name": "Yasir Siddiqui",
-      "developer_contact": "https://t.me/YasirSiddiqui",
-      "changelog": "changelog.txt",
-      "group_link": "https://t.me/ZirconiumAospChat"
-   }
-]
-
+{  
+   "build_details":[  
+      {  
+         "rom":"Pixel Experience (CAF Edition)",
+         "rom_tag":"pixel",
+         "build_type":"official",
+         "version":"A9.0",
+         "build_date":"(2019/03/13)",
+         "changelog":"changelog.txt"
+      }
+   ],
+   "device_details":[  
+      {  
+         "device":"Mi 8",
+         "codename":"platina"
+      }
+   ],
+   "links":[  
+      {  
+         "download_link":"https://download.pixelexperience.org/changelog/platina/PixelExperience_caf_platina-9.0-20190313-1547-OFFICIAL.zip",
+         "thread_link":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
+         "group_link":""
+      }
+   ],
+   "developer_details":[  
+      {  
+         "developer_name":"Bruno Rochaa (brunorochaa)",
+         "developer_contact":"https://t.me/brunorochaa"
+      }
+   ]
+}
+     
+      
+   
