@@ -1,14 +1,4 @@
-- Merged March Security Patch (android_9.0.0_r34)
-- Added Our Own VoLTE icon.
-- Redesigned BatteryMeterView (Thnx To @iacobionut)
-- Changed DashBoard Icons
-- Updated Lawnchair To The Latest  914 Build.
-- Fixed The Battery Stats Reset Issue
-- Added Network Traffic
-- Added Navbar Toggle
-- Added OP Navigation Gestures
-- Battery Bar Tweaks
-- Added One Tap Feature to Add Or Remove QS Tile.
-- Fixed The Issue With Accents.
-- Performance and Stability Improvement.
-- Added File Manager & Camera Roll
+- March security patch;
+- Stable GCAM prebuilt (how to config in xda thread);
+- Adjust light sensor warm-up time;
+- Fix for audio crashes in xda thread
