@@ -1,34 +1,14 @@
-{  
-   "build_details":[  
-      {  
-         "rom":"Pixel Experience (CAF Edition)",
-         "rom_tag":"pixel",
-         "build_type":"official",
-         "version":"A9.0",
-         "build_date":"(2019/03/13)",
-         "changelog":"changelog.txt"
-      }
-   ],
-   "device_details":[  
-      {  
-         "device":"Mi 8",
-         "codename":"platina"
-      }
-   ],
-   "links":[  
-      {  
-         "download_link":"https://download.pixelexperience.org/changelog/platina/PixelExperience_caf_platina-9.0-20190313-1547-OFFICIAL.zip",
-         "thread_link":"https://forum.xda-developers.com/mi-8-Lite/development/rom-pixel-experience-xiaomi-mi8-lite-t3890707",
-         "group_link":""
-      }
-   ],
-   "developer_details":[  
-      {  
-         "developer_name":"Bruno Rochaa (brunorochaa)",
-         "developer_contact":"https://t.me/brunorochaa"
-      }
-   ]
-}
-     
-      
-   
+[
+   {
+      "device": "Asus Zenphone Max Pro M1",
+      "codename": "X00TD",
+      "developer_name": "Subins Mani",
+      "build_date": "(2019/03/09)",
+      "version": "v2.4 (pie)",
+      "build_type": "OFFICIAL",
+      "thread_link": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672",
+      "download_link": "https://sourceforge.net/projects/pixys-os/files/pie/X00TD/PixysOS-v2.4-X00TD-OFFICIAL-20190305-1041.zip/download",
+      "rom_tag": "PixysOS"
+   }
+]
+
